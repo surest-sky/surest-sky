@@ -4,7 +4,7 @@
 
 技能:
 - PHP
-- GOLANG
+- Golang
 - Nodejs
 - Javascript/React/VUE
 - Flutter
