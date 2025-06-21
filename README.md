@@ -9,9 +9,9 @@
 
 **Backend:**
 - PHP (Laravel)
-- Python (FastAPI)
+- Python 
 - Go
-- Node.js (NestJS)
+- Node.js
 
 **Frontend:**
 - JavaScript/TypeScript
